@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: sessio1
+
+# Cuando hay muchas lineas viene mejor este archivo...
+welcome-value: Benvingut!!!
